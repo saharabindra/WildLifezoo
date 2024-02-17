@@ -678,7 +678,7 @@ a.discoverbut{
     }
     .footernav ul li a{
         color: #fff;
-        background:url(../HTML/Images/ICONS/right_arrow.svg) no-repeat left  center;
+        background:url(../Images/ICONS/right_arrow.svg) no-repeat left  center;
         padding-left: 25px;
         font-size: 16px;
     }
@@ -702,16 +702,16 @@ a.discoverbut{
     }
     .footseccontact_info ul li:nth-child(1) a
     {
-        background:url(../HTML/Images/ICONS/location.svg) no-repeat left  5px;
+        background:url(../Images/ICONS/location.svg) no-repeat left  5px;
 
     }
     .footseccontact_info ul li:nth-child(2) a
     {
-        background:url(../HTML/Images/ICONS/phone.svg) no-repeat left 8px;
+        background:url(../Images/ICONS/phone.svg) no-repeat left 8px;
     }
     .footseccontact_info ul li:nth-child(3) a
     {
-        background:url(../HTML/Images/ICONS/mail1.svg) no-repeat left  9px;
+        background:url(../Images/ICONS/mail1.svg) no-repeat left  9px;
     }
     .coationline{
         border-top: 3px solid #fff;
@@ -1131,7 +1131,7 @@ a.discoverbut{
         display: none;
     }
     .menu-collapser{
-        background: url(../HTML/Images/logo/logo.png) no-repeat left center #fff;
+        background: url(../Images/logo/logo.png) no-repeat left center #fff;
         background-size: 80px auto;
         font-size: 0;
     }
