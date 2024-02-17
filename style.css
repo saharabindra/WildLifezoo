@@ -901,14 +901,14 @@ a.discoverbut{
     outline-width: thin;
     }
     .accordion-button.collapsed::after{
-        background-image: url(../HTML/Images/FAQ_icon/arrow.png) !important;
+        background-image: url(../Images/FAQ_icon/arrow.png) !important;
         width: 12px;
         height: 22px;
         background-size: 100% 100%;
         transform: rotate(0deg) !important;
     }
     .accordion-button::after{
-        background-image: url(../HTML/Images/FAQ_icon/arrow.png) !important;
+        background-image: url(../Image/FAQ_icon/arrow.png) !important;
         width: 12px;
         height: 22px;
         background-size: 100% 100%;
@@ -959,13 +959,13 @@ a.discoverbut{
     .bannersec .owl-theme .owl-nav button.owl-prev
     {
         top:200px;
-        background: url(../HTML/Images/FAQ_icon/next.svg) no-repeat center center;
+        background: url(../Images/FAQ_icon/next.svg) no-repeat center center;
         transform: rotate(180deg);
     }
     .bannersec .owl-theme .owl-nav button.owl-next
     {
         top:300px;
-        background: url(../HTML/Images/FAQ_icon/next.svg) no-repeat center center;
+        background: url(../Images/FAQ_icon/next.svg) no-repeat center center;
     
     }
     .bannersec .owl-theme .owl-nav button span{
