@@ -678,7 +678,7 @@ a.discoverbut{
     }
     .footernav ul li a{
         color: #fff;
-        background:url(../Images/ICONS/right_arrow.svg) no-repeat left  center;
+        background:url(./Images/ICONS/right_arrow.svg) no-repeat left  center;
         padding-left: 25px;
         font-size: 16px;
     }
@@ -702,16 +702,16 @@ a.discoverbut{
     }
     .footseccontact_info ul li:nth-child(1) a
     {
-        background:url(../Images/ICONS/location.svg) no-repeat left  5px;
+        background:url(./Images/ICONS/location.svg) no-repeat left  5px;
 
     }
     .footseccontact_info ul li:nth-child(2) a
     {
-        background:url(../Images/ICONS/phone.svg) no-repeat left 8px;
+        background:url(./Images/ICONS/phone.svg) no-repeat left 8px;
     }
     .footseccontact_info ul li:nth-child(3) a
     {
-        background:url(../Images/ICONS/mail1.svg) no-repeat left  9px;
+        background:url(./Images/ICONS/mail1.svg) no-repeat left  9px;
     }
     .coationline{
         border-top: 3px solid #fff;
@@ -901,14 +901,14 @@ a.discoverbut{
     outline-width: thin;
     }
     .accordion-button.collapsed::after{
-        background-image: url(../Images/FAQ_icon/arrow.png) !important;
+        background-image: url(./Images/FAQ_icon/arrow.png) !important;
         width: 12px;
         height: 22px;
         background-size: 100% 100%;
         transform: rotate(0deg) !important;
     }
     .accordion-button::after{
-        background-image: url(../Image/FAQ_icon/arrow.png) !important;
+        background-image: url(./Image/FAQ_icon/arrow.png) !important;
         width: 12px;
         height: 22px;
         background-size: 100% 100%;
@@ -959,13 +959,13 @@ a.discoverbut{
     .bannersec .owl-theme .owl-nav button.owl-prev
     {
         top:200px;
-        background: url(../Images/FAQ_icon/next.svg) no-repeat center center;
+        background: url(./Images/FAQ_icon/next.svg) no-repeat center center;
         transform: rotate(180deg);
     }
     .bannersec .owl-theme .owl-nav button.owl-next
     {
         top:300px;
-        background: url(../Images/FAQ_icon/next.svg) no-repeat center center;
+        background: url(./Images/FAQ_icon/next.svg) no-repeat center center;
     
     }
     .bannersec .owl-theme .owl-nav button span{
@@ -1131,7 +1131,7 @@ a.discoverbut{
         display: none;
     }
     .menu-collapser{
-        background: url(../Images/logo/logo.png) no-repeat left center #fff;
+        background: url(./Images/logo/logo.png) no-repeat left center #fff;
         background-size: 80px auto;
         font-size: 0;
     }
