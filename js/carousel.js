@@ -1,8 +1,8 @@
 $(document).ready(function() {
           $('#testimonial_slider').owlCarousel({
-            loop: false,
+            loop: true,
             nav: true,
-            autoplay: false,
+            autoplay: true,
             dots: true,
             responsiveClass: true,
             responsive: {
@@ -21,10 +21,10 @@ $(document).ready(function() {
 
         $(document).ready(function() {
           $('#banner_slider').owlCarousel({
-            loop: false,
+            loop: true,
             nav: true,
             autoHeight:true,
-            autoplay: false,
+            autoplay: true,
             dots: false,
             responsiveClass: true,
             responsive: {
