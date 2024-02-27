@@ -1434,3 +1434,57 @@ a.discoverbut{
     color: #2EB872; 
     padding-left: 15px;
   }
+.popup {
+    width: 400px;
+    background: #fff;
+    border-radius: 6px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    transform: translate(-50% -50%);
+    text-align: center;
+    padding: 0 30px 30px;
+    transition: transform 0.4s top 0.4s;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  .openpopup{
+    visibility: visible;
+    top: 50%;
+    transform: translate(-50% -50%) scale(1);
+
+  }
+  .closepopup{
+    display: block;
+    top: 50%;
+    transform: translate(-50% -50%) scale(1);
+  }
+
+  .popup img{
+    width: 100px;
+    height: 145px;
+    margin-top: -50px;
+  }
+  .popup h2{
+    font-size: 38px;
+    font-weight: 500;
+    margin: 30px 0 10px;
+  }
+  .popup button{
+    width: 100%;
+    margin-top: 50px;
+    padding: 10px 0;
+    background: #6fd649;
+    color: #fff;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  .modal{
+    top: 14%;
+  }
+
+  .thankyoumodal .modal-content{
+    border: none;
+  }
